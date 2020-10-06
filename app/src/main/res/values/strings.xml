@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pelicula Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close">Cerrar</string>
+    <string name="open">Abrir</string>
+    <string name="rocky_message">Seleccionaste Rocky!!!</string>
+    <string name="rambo_message">Seleccionaste Rambo!!!</string>
+    <string name="exception_message">Tiene que Implementar la Interfaz</string>
+</resources>
